@@ -4,7 +4,7 @@ import {Color} from './color'
 
 function App() {
 
-  let [counter , setCounter] = useState(2);
+  let [counter , setCounter] = useState(1);
   let [mood , setMood] = useState(false);
  
   return (
